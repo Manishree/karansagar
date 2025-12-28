@@ -1,0 +1,8 @@
+
+{
+  "name": "Karan Sagar - Cinematography Portfolio",
+  "description": "A professional portfolio for Karan Sagar, a Cinematographer and Media Professional looking for internship and assistant opportunities in filmmaking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
